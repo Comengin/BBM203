@@ -1,3 +1,3 @@
 # BBM203
-HACETTEPE UNIVERSITY DEPARTMENT OF COMPUTER ENGINEERING
+Hacettepe Universıty department of computer engineering.
 BBM203 PROGRAMMING LAB.
