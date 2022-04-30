@@ -498,16 +498,14 @@ void DivideOperationsFile(int i)
 
     if(i==0)
         Matches_and_Goals_of_given_footballer(firstfootballer, secondfoorballer);
-    /*else if(i==1)
+    else if(i==1)
         SortAscendingID(firstfootballer, secondfoorballer);
-    else
-        SortDescendingID(firstfootballer, secondfoorballer);*/
 }
-int main/*(int argc, char *argv[])*/()
+int main(int argc, char *argv[])
 {
-    /*char* input=argv[1];
+    char* input=argv[1];
     char* operations=argv[2];
-    char* output=argv[3];*/
+    char* output=argv[3];
 
     int mountofline=0, i=0;
     ifstream InputFile, OperationsFile;
